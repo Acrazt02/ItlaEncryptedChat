@@ -1,0 +1,35 @@
+﻿  Client.cpp
+C:\Users\Acrazt02\Documents\ITLA\2do Cuatrimestre\Algebra Matricial\Proyecto\ItlaEncryptedChat\ItlaEncryptedChat\Client.cpp(70,73): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  EncryptedMessage.cpp
+  ItlaEncryptedChat.cpp
+C:\Users\Acrazt02\Documents\ITLA\2do Cuatrimestre\Algebra Matricial\Proyecto\ItlaEncryptedChat\ItlaEncryptedChat\ItlaEncryptedChat.cpp(235,29): warning C4244: 'inicializando': conversión de '_Ty' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Acrazt02\Documents\ITLA\2do Cuatrimestre\Algebra Matricial\Proyecto\ItlaEncryptedChat\ItlaEncryptedChat\ItlaEncryptedChat.cpp(236,33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  MessageEncryptor.cpp
+C:\Users\Acrazt02\Documents\ITLA\2do Cuatrimestre\Algebra Matricial\Proyecto\ItlaEncryptedChat\ItlaEncryptedChat\MessageEncryptor.cpp(19,37): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Acrazt02\Documents\ITLA\2do Cuatrimestre\Algebra Matricial\Proyecto\ItlaEncryptedChat\ItlaEncryptedChat\MessageEncryptor.cpp(76,68): warning C4244: '+=': conversión de 'double' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Acrazt02\Documents\ITLA\2do Cuatrimestre\Algebra Matricial\Proyecto\ItlaEncryptedChat\ItlaEncryptedChat\MessageEncryptor.cpp(173,21): warning C4244: 'inicializando': conversión de '_Ty' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Acrazt02\Documents\ITLA\2do Cuatrimestre\Algebra Matricial\Proyecto\ItlaEncryptedChat\ItlaEncryptedChat\MessageEncryptor.cpp(174,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Server.cpp
+C:\Users\Acrazt02\Documents\ITLA\2do Cuatrimestre\Algebra Matricial\Proyecto\ItlaEncryptedChat\ItlaEncryptedChat\Server.cpp(94,62): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Acrazt02\Documents\ITLA\2do Cuatrimestre\Algebra Matricial\Proyecto\ItlaEncryptedChat\ItlaEncryptedChat\Server.cpp(128,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Acrazt02\Documents\ITLA\2do Cuatrimestre\Algebra Matricial\Proyecto\ItlaEncryptedChat\ItlaEncryptedChat\Server.cpp(139,58): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Acrazt02\Documents\ITLA\2do Cuatrimestre\Algebra Matricial\Proyecto\ItlaEncryptedChat\ItlaEncryptedChat\Server.cpp(168,44): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Acrazt02\Documents\ITLA\2do Cuatrimestre\Algebra Matricial\Proyecto\ItlaEncryptedChat\ItlaEncryptedChat\Client.cpp(79): warning C4715: 'Client::sendData': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Acrazt02\Documents\ITLA\2do Cuatrimestre\Algebra Matricial\Proyecto\ItlaEncryptedChat\ItlaEncryptedChat\Client.cpp(97): warning C4715: 'Client::getData': no todas las rutas de acceso de control devuelven un valor
+  All 1347 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  ItlaEncryptedChat.vcxproj -> C:\Users\Acrazt02\Documents\ITLA\2do Cuatrimestre\Algebra Matricial\Proyecto\ItlaEncryptedChat\x64\Release\ItlaEncryptedChat.exe
